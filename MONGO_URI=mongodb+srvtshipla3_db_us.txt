@@ -1,3 +1,0 @@
-MONGO_URI=mongodb+srv://tshipla3_db_user:hEN6hvk4M63mDWtW@cluster1.ojg5zdh.mongodb.net/Ecom?appName=Cluster1
-JWT_SECRET=super_secret_code
-PORT=3000
