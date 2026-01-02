@@ -3,9 +3,9 @@ const {
     addReview,
     getReviews,
     adminResponseReview
-} = require('../controller/reviewController')
+} = require('../controllers/reviewController')
 
-const admin = require('..middleware/admin')
+const admin = require('../middleware/admin')
 const protect = require('../middleware/auth')
 
 const router = express.Router()
